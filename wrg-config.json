@@ -5,7 +5,7 @@
   "archives": [
     {
       "name": "Archive 2",
-      "url": "https://github.com/couchcushions/coucharchive/blob/main/cprofile1.wacz"
+      "url": "https://github.com/couchcushions/coucharchive/raw/refs/heads/main/cprofile1.wacz"
     },
     {
       "name": "Twitter",
