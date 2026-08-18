@@ -1,12 +1,11 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+    "title": "References Archive"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
+      "name": "Archive 2",
+      "url": "https://github.com/couchcushions/coucharchive/blob/main/cprofile1.wacz"
     },
     {
       "name": "Twitter",
